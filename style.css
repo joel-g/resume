@@ -45,19 +45,11 @@ td {
 	background: white;
 }
 
-.frames {
-	padding: 10px;
-}
 
 footer {
 	background: silver;
 }
 
-#logo {
-	background: url("images/Honda-logotype.png");
-	background-color: white;
-	background-size: 50%;
-}
 
 a:visited {
 	color: teal;
