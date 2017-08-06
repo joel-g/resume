@@ -1,1 +1,0 @@
-# joel-g.github.io
