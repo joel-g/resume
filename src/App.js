@@ -32,7 +32,7 @@ class App extends Component {
           </h2>
         </div>
         <div className='what'>
-        What can I build?
+        what can I build?
         </div>
       </div>
     );
