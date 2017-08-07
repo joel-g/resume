@@ -3,6 +3,23 @@ import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      currentContent: null
+    }
+  }
+
+
+
+  hoverHandler(e) {
+    e.preventDefault();
+    this.setState();
+  }
+
+
+
+
   render() {
     return (
       <div className="App">
