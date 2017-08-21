@@ -38,5 +38,5 @@ User training
 Immersive full-stack web development program that
 teaches multiple languages and frameworks, including
 Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
-### Tacoma Community, 2004
+### Tacoma Community College, 2004
 Associate of Science, Engineering
