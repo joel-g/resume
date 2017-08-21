@@ -35,8 +35,10 @@ Help Desk, Windows, Linux, Cloud Storage, Microsoft tools,
 User training
 ## Education
 ### Dev Bootcamp, 2017
+#### Seattle, WA
 Immersive full-stack web development program that
 teaches multiple languages and frameworks, including
 Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
 ### Tacoma Community College, 2004
+#### Tacoma, WA
 Associate of Science, Engineering
