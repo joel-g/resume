@@ -54,3 +54,8 @@ Source: [github.com/knweber/policewatch](http://github.com/knweber/policewatch) 
 ### AnimalFactsBot
 A Python reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
 Source: [github.com/joel-g/animal-facts-bot](http://github.com/joel-g/animal-facts-bot) In Action: [reddit.com/u/animalfactsbot/comments](http://reddit.com/u/animalfactsbot/comments)
+
+### StormyGuerra.com
+Single page React.js app for my wife's consulting business hosted on AWS.
+
+Source: [github.com/joel-g/stormy-react](http://github.com/joel-g/stormy-react) Hosted: [stormyguerra.com](http://stormyguerra.com)
