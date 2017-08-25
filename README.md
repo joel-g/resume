@@ -13,17 +13,16 @@ going on adventures with my wife and children. Call me to discuss how I can cont
 
 ## Experience
 ### Technical Consultant, Umbrella Corp, Jun 2015 - Present
-Support for businesses o ering services in IT, marketing, graphic design and web development. I help small
-business owners connect with their customers.
+Support for businesses offering services in IT, marketing, graphic design and web development. I help small business owners connect with their customers.
 ### System Administrator, DirectBuy of Seattle, Sept 2011 - Mar 2015
-Repaired, maintained, upgraded, troubleshot, installed software and provided user support for 30+ workstations.
-Maintained network equipment and servers. Deployed and organized cloud storage services and local databases.
-Provide one-on-one training and group training for 30+ sta members on propriety software, Microsoft products
-and security policies. Designed logos, signs, advertisements to support marketing team. Cross-trained in sales to
-support sales team.
-### Information Technology Specialist, DirectBuy of Olympia, Jan 2007 - Feb 201
-Worked with contractors to ensure all technology necessary for daily business is always working and trained sta
-to use it all.
+Repaired, maintained, upgraded, troubleshot, installed software and provided user support for 30+ workstations. 
+Maintained network equipment and servers. Deployed and organized cloud storage services and local databases. 
+Provided one-on-one training and group training for 30+ staff members on proprietary software, Microsoft products and security policies. 
+Designed logos, signs, advertisements to support marketing team. 
+Cross-trained in sales to support sales team.
+### Marketing Manager & IT Specialist, DirectBuy of Olympia, Jan 2007 - Feb 2011
+Worked with contractors to ensure all technology necessary for daily business is always working and trained staff to use it all. 
+Developed and implemented digital, direct mail and telephone marketing campaigns that drop 90%+ of our monthly business.
 ## Skills
 ### Software Development
 HTML, CSS, Javascript, Ruby, Python, jQuery, SQL, RESTful web
@@ -42,3 +41,16 @@ Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
 ### Tacoma Community College, 2004
 #### Tacoma, WA
 Associate of Science, Engineering
+
+## Projects
+### Whiteboardr
+Rails web application that helps develoers practice their technical interview skills
+Source: github.com/joel-g/whiteboardr Hosted: whiteboardr.herokuapp.com
+
+### PoliceWatch
+Express app that visualizes officer involved homicides in the US.
+Source: github.com/knweber/policewatch Hosted: policewatch.herokuapp.com
+
+### AnimalFactsBot
+A reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
+Sourece: github.com/joel-g/animal-facts-bot In Action: reddit.com/u/animalfactsbot/comments
