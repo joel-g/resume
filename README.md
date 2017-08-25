@@ -53,6 +53,11 @@ Single page React.js app for my wife's consulting business hosted on AWS.
 
 Source: [github.com/joel-g/stormy-react](http://github.com/joel-g/stormy-react) Hosted: [stormyguerra.com](http://stormyguerra.com)
 
+### Baseball Now
+Full stack Rails app I built for a coding challenge for a prospective employer.
+
+Source: [github.com/joel-g/baseball-now-rails](http://github.com/joel-g/baseball-now-rails) Hosted: [baseballnow.herokuapp.com](http://baseballnow.herokuapp.com)
+
 ## Education
 ### Dev Bootcamp, 2017
 Immersive full-stack web development program that
