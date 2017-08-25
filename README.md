@@ -5,8 +5,8 @@ This experience makes me well-rounded programmer who can seamlessly collaborate 
 clients. When I'm not writing code I'm planning my next project. When I'm not doing either of those I'm building cars and
 going on adventures with my wife and children. Call me to discuss how I can contribute to your team.
 
-* [linkedin.com/in/joel-g](linkedin.com/in/joel-g)
-* [github.com/joel-g](github.com/joel-g)
+* [linkedin.com/in/joel-g](http://linkedin.com/in/joel-g)
+* [github.com/joel-g](http://github.com/joel-g)
 * joelaguerra1@gmail.com
 * (253) 961-3325
 * Seattle, WA
@@ -44,13 +44,13 @@ Associate of Science, Engineering
 ### Whiteboardr
 Rails web application that helps develoers practice their technical interview skills
 
-Source: [github.com/joel-g/whiteboardr](github.com/joel-g/whiteboardr) Hosted: [whiteboardr.herokuapp.com](whiteboardr.herokuapp.com)
+Source: [github.com/joel-g/whiteboardr](http://github.com/joel-g/whiteboardr) Hosted: [whiteboardr.herokuapp.com](http://whiteboardr.herokuapp.com)
 
 ### PoliceWatch
 Express app that visualizes officer involved homicides in the US.
 
-Source: [github.com/knweber/policewatch](github.com/knweber/policewatch) Hosted: [policewatch.herokuapp.com](policewatch.herokuapp.com)
+Source: [github.com/knweber/policewatch](http://github.com/knweber/policewatch) Hosted: [policewatch.herokuapp.com](http://policewatch.herokuapp.com)
 
 ### AnimalFactsBot
 A reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
-Source: [github.com/joel-g/animal-facts-bot](github.com/joel-g/animal-facts-bot) In Action: [reddit.com/u/animalfactsbot/comments](reddit.com/u/animalfactsbot/comments)
+Source: [github.com/joel-g/animal-facts-bot](http://github.com/joel-g/animal-facts-bot) In Action: [reddit.com/u/animalfactsbot/comments](http://reddit.com/u/animalfactsbot/comments)
