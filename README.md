@@ -52,5 +52,5 @@ Express app that visualizes officer involved homicides in the US.
 Source: [github.com/knweber/policewatch](http://github.com/knweber/policewatch) Hosted: [policewatch.herokuapp.com](http://policewatch.herokuapp.com)
 
 ### AnimalFactsBot
-A reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
+A Python reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
 Source: [github.com/joel-g/animal-facts-bot](http://github.com/joel-g/animal-facts-bot) In Action: [reddit.com/u/animalfactsbot/comments](http://reddit.com/u/animalfactsbot/comments)
