@@ -5,8 +5,8 @@ This experience makes me well-rounded programmer who can seamlessly collaborate 
 clients. When I'm not writing code I'm planning my next project. When I'm not doing either of those I'm building cars and
 going on adventures with my wife and children. Call me to discuss how I can contribute to your team.
 
-* linkedin.com/in/joel-g
-* github.com/joel-g
+* [linkedin.com/in/joel-g](linkedin.com/in/joel-g)
+* [github.com/joel-g](github.com/joel-g)
 * joelaguerra1@gmail.com
 * (253) 961-3325
 * Seattle, WA
