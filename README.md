@@ -32,13 +32,6 @@ Object Oriented Programming
 Computer Repair/Upgrade, Hardware Repair, Networking,
 Help Desk, Windows, Linux, Cloud Storage, Microsoft tools,
 User training
-## Education
-### Dev Bootcamp, 2017
-Immersive full-stack web development program that
-teaches multiple languages and frameworks, including
-Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
-### Tacoma Community College, 2004
-Associate of Science, Engineering
 
 ## Projects
 ### Whiteboardr
@@ -59,3 +52,11 @@ Source: [github.com/joel-g/animal-facts-bot](http://github.com/joel-g/animal-fac
 Single page React.js app for my wife's consulting business hosted on AWS.
 
 Source: [github.com/joel-g/stormy-react](http://github.com/joel-g/stormy-react) Hosted: [stormyguerra.com](http://stormyguerra.com)
+
+## Education
+### Dev Bootcamp, 2017
+Immersive full-stack web development program that
+teaches multiple languages and frameworks, including
+Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
+### Tacoma Community College, 2004
+Associate of Science, Engineering
