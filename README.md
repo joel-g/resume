@@ -45,7 +45,8 @@ Associate of Science, Engineering
 ## Projects
 ### Whiteboardr
 Rails web application that helps develoers practice their technical interview skills
-Source: github.com/joel-g/whiteboardr Hosted: whiteboardr.herokuapp.com
+
+Source: (github.com/joel-g/whiteboardr)[github.com/joel-g/whiteboardr] Hosted: whiteboardr.herokuapp.com
 
 ### PoliceWatch
 Express app that visualizes officer involved homicides in the US.
