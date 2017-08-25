@@ -34,24 +34,23 @@ Help Desk, Windows, Linux, Cloud Storage, Microsoft tools,
 User training
 ## Education
 ### Dev Bootcamp, 2017
-#### Seattle, WA
 Immersive full-stack web development program that
 teaches multiple languages and frameworks, including
 Ruby, JavaScript, Rails, Node, Express, HTML and CSS, SQL.
 ### Tacoma Community College, 2004
-#### Tacoma, WA
 Associate of Science, Engineering
 
 ## Projects
 ### Whiteboardr
 Rails web application that helps develoers practice their technical interview skills
 
-Source: [github.com/joel-g/whiteboardr](github.com/joel-g/whiteboardr) Hosted: whiteboardr.herokuapp.com
+Source: [github.com/joel-g/whiteboardr](github.com/joel-g/whiteboardr) Hosted: [whiteboardr.herokuapp.com](whiteboardr.herokuapp.com)
 
 ### PoliceWatch
 Express app that visualizes officer involved homicides in the US.
-Source: github.com/knweber/policewatch Hosted: policewatch.herokuapp.com
+
+Source: [github.com/knweber/policewatch](github.com/knweber/policewatch) Hosted: [policewatch.herokuapp.com](policewatch.herokuapp.com)
 
 ### AnimalFactsBot
 A reddit bot that replies to requests for animal facts to hundreds of reddit users per week. Also comments unsolicted animal facts across reddit.
-Sourece: github.com/joel-g/animal-facts-bot In Action: reddit.com/u/animalfactsbot/comments
+Source: [github.com/joel-g/animal-facts-bot](github.com/joel-g/animal-facts-bot) In Action: [reddit.com/u/animalfactsbot/comments](reddit.com/u/animalfactsbot/comments)
